@@ -210,6 +210,12 @@ http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8&replay=1&day
 https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8&replay=1&days=7
 
 #EXTGRP:港澳台,
+#EXTINF:-1 group-title="港澳台",Viutv
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8&replay=1&days=7
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=53&replay=1&days=7
+#EXTINF:-1 group-title="港澳台",广东珠江
+http://cdn2.163189.xyz/live/gdzj/stream.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",香港卫视
@@ -226,8 +232,6 @@ http://php.jdshipin.com:8880/smt.php?id=pearl_twn&replay=1&days=7
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",无线新闻台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn&replay=1&days=7
-#EXTINF:-1 group-title="港澳台",广东珠江
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",娱乐新闻台
@@ -267,8 +271,6 @@ http://120.198.101.106:9901/tsfile/live/1007_1.m3u8?key=txiptv&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",翡翠台
 http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",翡翠台
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=53&replay=1&days=7
-#EXTINF:-1 group-title="港澳台",翡翠台
 rtmp://sy.ecoheze.com/live/gdfc&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",明珠台
 http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv&replay=1&days=7
@@ -278,8 +280,6 @@ http://122.152.202.33/s/81a8a44f/index.m3u8?id=23&replay=1&days=7
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",Viutv
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv&replay=1&days=7
-#EXTINF:-1 group-title="港澳台",Viutv
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",Viutv
 https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40&replay=1&days=7
 #EXTINF:-1 group-title="港澳台",Viutv
@@ -316,8 +316,8 @@ https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40&
 http://8hb85846je10.vicp.fun:5000/bysid/82&replay=1&days=7
 
 #EXTGRP:卫视频道,
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?&replay=1&days=7
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://222.223.41.27:8888/hls/16/index.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://125.43.249.76:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",安徽卫视
@@ -356,6 +356,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1b
 http://anren.live/HK/BSJDUFpB.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070&replay=1&days=7
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",浙江卫视
@@ -972,8 +974,6 @@ http://go.bkpcp.top/mg/hubws&replay=1&days=7
 http://go.bkpcp.top/mg/hinws&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://go.bkpcp.top/mg/sxws&replay=1&days=7
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://222.223.41.27:8888/hls/16/index.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://222.223.41.27:8888/hls/31/index.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="卫视频道",天津卫视
@@ -1666,6 +1666,8 @@ rtsp://116.176.26.18/PLTV/88888910/224/3221225594/100001000000000600000000002708
 
 #EXTGRP:广东频道,
 #EXTINF:-1 group-title="广东频道",广东珠江
+http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0&replay=1&days=7
+#EXTINF:-1 group-title="广东频道",广东珠江
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091&replay=1&days=7
 #EXTINF:-1 group-title="广东频道",广东珠江
 https://tv.cdn.com.mp/live/gdzj/stream.m3u8&replay=1&days=7
@@ -1679,8 +1681,6 @@ http://ku9.3n.cc/smt.php?id=zhujiang&replay=1&days=7
 http://218.13.14.6:60050/tsfile/live/1018_1.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="广东频道",广东珠江
 http://120.198.101.106:9901/tsfile/live/1010_1.m3u8?key=txiptv&replay=1&days=7
-#EXTINF:-1 group-title="广东频道",广东珠江
-http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0&replay=1&days=7
 #EXTINF:-1 group-title="广东频道",广东体育
 http://php.jdshipin.com:8880/chudian.php?id=gdty&replay=1&days=7
 #EXTINF:-1 group-title="广东频道",广东体育
